@@ -12,5 +12,3 @@ Link to the paper: https://link.springer.com/chapter/10.1007%2F978-981-15-4577-1
 - [ ] Calculate in $
 - [ ] Better interface ;)
 - [ ] Better plots
-
-Fabian
