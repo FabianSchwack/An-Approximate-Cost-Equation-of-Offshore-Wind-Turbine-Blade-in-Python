@@ -9,6 +9,6 @@ Link to the paper: https://link.springer.com/chapter/10.1007%2F978-981-15-4577-1
 - [X] Include all the equations from the Paper in Python
 - [x] Calculate the blade cost in €
 - [x] First plots for vizualisation
-- [ ] Calculate in $
-- [ ] Better interface ;)
+- [x] Calculate in €
+- [x] Better interface ;)
 - [ ] Better plots
